@@ -1,0 +1,19 @@
+body {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    z-index: 0;
+    width: 100%;
+    height: inherit;
+    background-image: url(black_woven_seamless_tile.jpg);
+    text-align: center;
+    color: gold
+
+  }
+  h3 {
+    color: #bb161b; 
+    text-align: center;
+  }
+  
+  h1 {
+      color: #bb161b;
+      text-align: center;
+  }
